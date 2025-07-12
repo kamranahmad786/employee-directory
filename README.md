@@ -17,6 +17,7 @@ A responsive and interactive Employee Directory Web Interface built with vanilla
 
 ## Live Demo:
 
+https://employee-directory-assesment.netlify.app/
 
 
 ## Setup Instructions
